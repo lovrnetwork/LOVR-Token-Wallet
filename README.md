@@ -2,7 +2,7 @@
 
 The LOVR Token Wallet is specially designed for the use inside the tradtional adult industry and based on the Lunary-Ethereum-Wallet.
 
-<img src="http://lovr.network/images/ewallet_lovr.png" >
+<img src="http://lovr.network/images/ewallet_lovr.png" width="300">
 
 ## Features
 * Multi wallet support  
