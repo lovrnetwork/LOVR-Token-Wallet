@@ -1,11 +1,8 @@
-# Lunary Ethereum Wallet
+# LOVR Token Wallet
 
-Lunary is a beautifully designed, easy to use, secure and Open Source Ethereum Wallet for Android.
+The LOVR Token Wallet is specially designed for the use inside the tradtional adult industry and based on the Lunary-Ethereum-Wallet.
 
-[![Get it on Google Play](http://rehanced.com/apps/badge.png)](https://play.google.com/store/apps/details?id=com.rehanced.lunary)
-[![Get it on F-Droid](http://rehanced.com/apps/fdroidbadge.png)](https://f-droid.org/repository/browse/?fdid=com.rehanced.lunary)
-
-<img src="http://rehanced.com/apps/lunary/githubbanner.png" >
+<img src="http://lovr.network/images/ewallet_lovr.png" >
 
 ## Features
 * Multi wallet support  
@@ -47,11 +44,14 @@ public class APIKey {
 * [Poloniex.com](https://poloniex.com/)  
 * [Ethplorer.io](https://ethplorer.io)
 
-## Donations / Support Lunary
-Ethereum: 0xa9981a33f6b1A18da5Db58148B2357f22B44e1e0
+## Donations / Support LOVR
+Ethereum: 0xE49eE2cA3A740b070C52De2c0FbC413Dc0B765cF
 
 ## Licence
 GPL3
 
+## Website
+Visit our website [LOVR Network](https://lovr.network)
+
 ## Community
-Visit us on [/r/Lunary](https://www.reddit.com/r/lunary/)
+Visit us on [/r/lovrnetwork](https://www.reddit.com/r/lovrnetwork/)
